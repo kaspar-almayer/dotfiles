@@ -1,0 +1,7 @@
+alias d='cd /home/kaspar/Documents'
+alias gs='git status'
+alias gl='git log'
+alias ga='git add .'
+alias gc='git commit -m'
+alias gb='git branch'
+alias ff='vim /home/kaspar/Documents/freedom40_todo.txt'
